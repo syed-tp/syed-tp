@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Syed Ibrahim
 - 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Django.
-- 📫 How to reach me 
+- 📫 How to reach me: https://www.linkedin.com/in/syed-ibrahim-thasthahir-904574216/ 
 - 😄 Pronouns:'sai-ya-d' 
 - ⚡ Fun fact: Curious + New Learnings = Adventurous.
 
