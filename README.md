@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed</h1>
-<h3 align="center">A passionate software developer.</h3>
+<h3 align="center">A passionate software engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-tp&label=Profile%20views&color=0e75b6&style=flat" alt="syed-tp" /> </p>
 
@@ -8,10 +8,18 @@
 <a href="https://linkedin.com/in/syed-ibrahim-thasthahir-904574216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-ibrahim-thasthahir-904574216" height="30" width="40" /></a>
 </p>
 
+
+<p>
+  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=syed-tp&layout=compact" />
+</p>
+
+<p>
+  <img align="center" src="https://streak-stats.demolab.com?user=syed-tp" />
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- Backend -->
-<p align="left"><strong>Backend</strong></p>
 <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
@@ -25,8 +33,6 @@
   <img src="https://img.shields.io/badge/LangChain-black?style=flat&logo=chainlink&logoColor=white"/>
 </p>
 
-<!-- Mobile -->
-<p align="left"><strong>Mobile</strong></p>
 <p align="left">
   <a href="https://reactnative.dev/" target="_blank">
     <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
@@ -48,8 +54,6 @@
   </a>
 </p>
 
-<!-- Database -->
-<p align="left"><strong>Database & Cache</strong></p>
 <p align="left">
   <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
@@ -62,8 +66,6 @@
   </a>
 </p>
 
-<!-- Tools -->
-<p align="left"><strong>Tools & Others</strong></p>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
@@ -77,12 +79,4 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
   </a>
-</p>
-
-<p>
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=syed-tp&layout=compact" />
-</p>
-
-<p>
-  <img src="https://streak-stats.demolab.com?user=syed-tp" />
 </p>
