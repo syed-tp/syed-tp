@@ -8,9 +8,9 @@
 <a href="https://linkedin.com/in/syed-ibrahim-thasthahir-904574216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-ibrahim-thasthahir-904574216" height="30" width="40" /></a>
 </p>
 
-
+<h3 align="left">Stats:</h3>
 <p>
-  <img align="right" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=syed-tp&layout=compact" />
+  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=syed-tp&layout=compact" />
 </p>
 
 <p>
