@@ -1,82 +1,82 @@
-<h1 align="center">Hi 👋, I'm Syed</h1>
-<h3 align="center">A passionate software engineer.</h3>
+<h1 align="center">Hey, I'm Syed Ibrahim 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=syed-tp&label=Profile%20views&color=0e75b6&style=flat" alt="syed-tp" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/syed-ibrahim-thasthahir-904574216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-ibrahim-thasthahir-904574216" height="30" width="40" /></a>
+<p align="center">
+  <b>Full Stack Developer </b><br/>
+  Building production-grade platforms.
 </p>
 
-<h3 align="left">Stats:</h3>
-<p>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=syed-tp&layout=compact" />
+<p align="center">
+  <a href="https://linkedin.com/in/syed-ibrhim-thasthahir">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/syed-tp">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:syed1104drsas@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=syed-tp&color=blueviolet&style=flat" />
 </p>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=syed-tp" />
+---
+
+## 👨‍💻 About Me
+
+I like building things that actually work in production — not just demos.
+
+Right now I'm deep into **AI infra and mobile** — figuring out how to make intelligent systems feel native on any platform. I enjoy the full journey: from designing an API to shipping an SDK to wiring up an AI pipeline that runs at scale.
+
+I'm drawn to problems that sit at the edge of multiple domains — video, AI, mobile, backend — where the interesting stuff happens. If something's broken or slow, I want to fix it. If it doesn't exist yet, I want to build it.
+
+Open to interesting problems
+
+---
+
+## 🛠️ Tech Stack
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=flat&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+
+**Databases & Infra**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**AI & Media**
+
+![OpenAI Whisper](https://img.shields.io/badge/Whisper-412991?style=flat&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat&logo=ffmpeg&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=syed-tp&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syed-tp&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-
-<h3 align="left">Languages and Tools:</h3>
-
-<p align="left">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40"/>
-  </a>
-  <a href="https://streamlit.io/" target="_blank">
-    <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="40"/>
-  </a>
-  <img src="https://img.shields.io/badge/LangChain-black?style=flat&logo=chainlink&logoColor=white"/>
-</p>
-
-<p align="left">
-  <a href="https://reactnative.dev/" target="_blank">
-    <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
-  </a>
-  <a href="https://flutter.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40"/>
-  </a>
-  <a href="https://developer.apple.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" width="40"/>
-  </a>
-  <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40"/>
-  </a>
-  <a href="https://www.swift.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" width="40"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40"/>
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  </a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syed-tp&theme=tokyonight&hide_border=true" />
 </p>
